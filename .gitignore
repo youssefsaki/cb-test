@@ -1,3 +1,23 @@
+# Dependencies
+node_modules
+
+# Next.js
+.next
+out
+
+# Env and local config
+.env.local
+.env.*.local
+.vercel
+
+# Certs / local HTTPS artifacts
+certs
+
+# OS
+.DS_Store
+
+# Local docs not meant for repo
+CLOUDBEDS_INTEGRATION_STEPS.md
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
